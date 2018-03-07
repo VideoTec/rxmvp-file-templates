@@ -1,4 +1,4 @@
 package ${packageName};
  
-public class ${className}Model implements ${className}Contract.Model {
+public class ${prefix}Model implements ${prefix}Contract.Model {
 }

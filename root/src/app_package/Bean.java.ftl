@@ -1,4 +1,4 @@
 package ${packageName};
  
-public class ${className}Bean {
+public class ${prefix}Bean {
 }

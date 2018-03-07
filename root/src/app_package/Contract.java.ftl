@@ -1,6 +1,6 @@
 package ${packageName};
  
-public interface ${className}Contract{
+public interface ${prefix}Contract{
 	interface Model {
 	}
     
